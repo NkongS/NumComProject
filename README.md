@@ -13,6 +13,7 @@ The user can select a sorting algorithms from the drop down menu and use the "+"
 select a sorting algorithms from the list and press the "X" to remove it from the list, and start the visualization of the selected algorithms.
 
 The visualization is done using a canvas with rectangles representing the elements of the list, and the color of the rectangles changes during the sorting process.
+
 The elapsed time is displayed during the sorting process so the sorting algorthms can be compared between each other.
 
 There are 11 sorting algorithms implemented in this code: Bubble Sort, Selection Sort, Insertion Sort, Bogo Sort, Merge Sort, Quick Sort, Heap Sort, Shell Sort, Cocktail Shaker Sort, Comb Sort, and Gnome Sort.
