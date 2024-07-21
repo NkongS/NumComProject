@@ -6,7 +6,7 @@ The program allows the user to visualize the sorting process of various sorting 
 - The is_sorted function checks if the list is sorted in ascending order.
 - The visualize_sorting function creates a separate window to visualize the sorting animation using Tkinter canvas.
 
-**How to Use**
+**How to Use:** \
 The main GUI allows the user to select the number of elements, sorting algorithms, and sorting speed.
 
 The user can select a sorting algorithms from the drop down menu and use the "+" to add it to the list or 
